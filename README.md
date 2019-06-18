@@ -1,4 +1,4 @@
-# UCULINUX
+# Ejercicio
 
 Construye la imagen usando el siguiente comando
 
